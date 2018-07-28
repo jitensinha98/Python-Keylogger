@@ -30,3 +30,8 @@ pip install pynput
 ## WARNING
 This code is intended for educational purposes only.In no way do i endorse this script to be used for malicious purposes and i will not accept any responsibility for the running of this script.If you are going to test this keylogger on anyone , make sure they understand you are doing so.
 
+## Author
+- ***Jiten Sinha***-initial work-[LinekdIn](https://www.linkedin.com/in/jiten-sinha-131043159/)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jitensinha98/Python-Keylogger/blob/master/LICENSE) file for details.
